@@ -3,7 +3,7 @@ package org.banking;
 public class HdfcBank implements Indianbank,RbiBank{
 @Override
 public void fixed() {
-System.out.println("5%");	
+System.out.println("25%");	
 }
 @Override
 	public void deposit() {
